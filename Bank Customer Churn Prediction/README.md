@@ -1,5 +1,5 @@
 # Bank Customer Churn Prediction
-Project and more details -> [Click](https://github.com/ilonakandela/projects/blob/main/Bank%20Customer%20Churn%20Prediction/Bank%20Customer%20Churn%20Prediction.ipynb)
+Project and more details  -->  [Click](https://github.com/ilonakandela/projects/blob/main/Bank%20Customer%20Churn%20Prediction/Bank%20Customer%20Churn%20Prediction.ipynb)
 
 ### Project Description
 The model leverages key customer attributes such as age, gender, account balance, credit score, and product usage to pinpoint the primary drivers of churn. By identifying these factors, the bank can prioritize high-risk segments, such as customers in regions with elevated churn rates or those showing behavioral signs of dissatisfaction. Additionally, the analysis uncovers actionable insights, such as the impact of inactivity, overuse of products, and demographic vulnerabilities, allowing for the development of personalized engagement strategies. These targeted initiatives not only help in retaining valuable clients but also enhance overall customer experience and loyalty, contributing to long-term business sustainability.
