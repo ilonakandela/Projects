@@ -13,3 +13,7 @@ Welcome to my repository, where I showcase a collection of data science and data
   Compare the effectiveness of two types of advertising campaigns — static ads and motion ads — through A/B testing to determine which approach delivers better user engagement, conversions, and overall campaign performance.
   * Techniques: A/b test, marketing funnel, EDA, hypothesis tests (Mann-Whitney U test, t-test).
   * Tools: Python (pandas, numpy, plotly, seaborn, scipy).
+* [E-Commerce Traffic Flow Analysis](https://github.com/ilonakandela/projects/tree/main/E-Commerce%20Traffic%20Flow%20Analysis) <br>
+  A comprehensive analysis and optimization of traffic flow on an e-commerce platform to improve user engagement, reduce drop-offs, and boost conversion rates using data-driven strategies.
+  * Techniques: Nested dataset analysis, conversion funnel analysis, time-based trend analysis.
+  * Tools: SQL, BigQuery, Python (seaborn, matplotlib).
