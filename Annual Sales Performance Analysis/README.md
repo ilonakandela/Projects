@@ -16,4 +16,4 @@ The project provides a comprehensive analysis of the company's sales data for 20
 - Power Pivot
 
 ### Dashboard
-![Dashboard](Dashboard annual sales performance.png)
+![Dashboard](https://github.com/ilonakandela/projects/blob/main/Annual%20Sales%20Performance%20Analysis/Dashboard%20annual%20sales%20performance.png)
