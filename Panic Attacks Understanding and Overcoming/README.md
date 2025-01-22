@@ -13,4 +13,4 @@ The dataset consists of information gathered from individuals experiencing panic
 - DAX
 
 ### Project and Insights:
-![PDF]('D:\cv_projects\steam\pdf2png\Panic Attacks Understanding and Overcoming\Panic Attacks Understanding and Overcoming-1.png')
+![png](https://github.com/ilonakandela/projects/blob/main/Panic%20Attacks%20Understanding%20and%20Overcoming/PA%20report%20png.png)
