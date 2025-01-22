@@ -1,6 +1,6 @@
 # Projects Portfolio
-Welcome to my repository, where I showcase a collection of data science and data analysis projects I’ve worked on.
-### Projects
+Welcome to my repository, where I showcase a collection of data science/ data analysis projects I’ve worked on.
+### Projects:
 * [Bank Customer Churn Prediction](https://github.com/ilonakandela/projects/tree/main/Bank%20Customer%20Churn%20Prediction) <br>
   Predicting bank customer churn using classification models and analyzing key factors driving churn.
   * Techniques: EDA, correlation analysis, classification models (such as Random Forest, KNN, XGBoost etc.), descriptive statistics, feature engineering, oversampling for imbalance.
@@ -17,3 +17,7 @@ Welcome to my repository, where I showcase a collection of data science and data
   A comprehensive analysis and optimization of traffic flow on an e-commerce platform to improve user engagement, reduce drop-offs, and boost conversion rates using data-driven strategies.
   * Techniques: Nested dataset analysis, conversion funnel analysis, time-based trend analysis.
   * Tools: SQL, BigQuery, Python (seaborn, matplotlib).
+* [Annual Sales Performance Analysis and Dashboard](https://github.com/ilonakandela/projects/tree/main/Annual%20Sales%20Performance%20Analysis) <br>
+  Analyseis the company’s 2023 sales data to identify key revenue drivers, optimize operational strategies, and uncover opportunities for growth across products, occasions, and geographic markets.
+  * Techniques: data transformation with Power Query, build relationships between tables, create custom column using DAX, dynamic visualizations.
+  * Tools: Excel, Power Query, Power Pivot.
