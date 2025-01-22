@@ -10,10 +10,10 @@ The project provides a comprehensive analysis of the company's sales data for 20
 - **Operational Efficiency:** An average order value of $3,520.98 and delivery time of 6 days reflect operational success but also suggest areas for further optimization.
 - **Product-Occasion Fit:** Aligning product offerings with occasions like Anniversary and Raksha Bandhan creates opportunities for tailored promotions and increased customer engagement.
 
-### Tools
+### Tools:
 - Excel
 - Power Query
 - Power Pivot
 
-### Dashboard
+### Dashboard:
 ![Dashboard](https://github.com/ilonakandela/projects/blob/main/Annual%20Sales%20Performance%20Analysis/Dashboard%20annual%20sales%20performance.png)
