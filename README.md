@@ -18,6 +18,10 @@ Welcome to my repository, where I showcase a collection of data science/ data an
   * Techniques: Nested dataset analysis, conversion funnel analysis, time-based trend analysis.
   * Tools: SQL, BigQuery, Python (seaborn, matplotlib).
 * [Annual Sales Performance Analysis and Dashboard](https://github.com/ilonakandela/projects/tree/main/Annual%20Sales%20Performance%20Analysis) <br>
-  Analyseis the company’s 2023 sales data to identify key revenue drivers, optimize operational strategies, and uncover opportunities for growth across products, occasions, and geographic markets.
+  Analyzing the company’s 2023 sales data to identify key revenue drivers, optimize operational strategies, and uncover opportunities for growth across products, occasions, and geographic markets.
   * Techniques: data transformation with Power Query, build relationships between tables, create custom column using DAX, dynamic visualizations.
   * Tools: Excel, Power Query, Power Pivot.
+* [Panic Attacks: Understanding and Overcoming](https://github.com/ilonakandela/projects/tree/main/Panic%20Attacks%20Understanding%20and%20Overcoming) <br>
+  This project analyzes the frequency, triggers, and treatment patterns of panic attacks, exploring how factors like age, gender, medical history, and lifestyle habits influence their occurrence.
+  * Techniques: data transformation and cleaning, correlation analysis, data visualization, frequency and distribution analysis, pattern recognition.
+  * Tools: Power BI, Power Query, DAX, integrated Python scripts for visualization.
