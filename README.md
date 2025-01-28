@@ -11,7 +11,7 @@ Welcome to my repository, where I showcase a collection of data science/ data an
   * Tools: Python (pandas, seaborn, matplotlib, sklearn).
 * [A/B testing Compare Two Advertising Campaigns](https://github.com/ilonakandela/projects/tree/main/AB%20testing%20Compare%20Two%20Advertising%20Campaigns) <br>
   Compare the effectiveness of two types of advertising campaigns — static ads and motion ads — through A/B testing to determine which approach delivers better user engagement, conversions, and overall campaign performance.
-  * Techniques: A/b test, marketing funnel, EDA, hypothesis tests (Mann-Whitney U test, t-test).
+  * Techniques: A/B test, marketing funnel, EDA, hypothesis tests (Mann-Whitney U test, t-test), CTR, CR, CPA.
   * Tools: Python (pandas, numpy, plotly, seaborn, scipy).
 * [E-Commerce Traffic Flow Analysis](https://github.com/ilonakandela/projects/tree/main/E-Commerce%20Traffic%20Flow%20Analysis) <br>
   A comprehensive analysis and optimization of traffic flow on an e-commerce platform to improve user engagement, reduce drop-offs, and boost conversion rates using data-driven strategies.
