@@ -17,6 +17,10 @@ Welcome to my repository, where I showcase a collection of data science/ data an
   A comprehensive analysis and optimization of traffic flow on an e-commerce platform to improve user engagement, reduce drop-offs, and boost conversion rates using data-driven strategies.
   * Techniques: Nested dataset analysis, conversion funnel analysis, time-based trend analysis.
   * Tools: SQL, BigQuery, Python (seaborn, matplotlib).
+* [Comprehensive Sales Review with SQL](https://github.com/ilonakandela/projects/tree/main/Comprehensive%20Sales%20Review%20with%20SQL) <br>
+  Project focuses on analyzing sales data using SQL to uncover trends, assess profitability, and evaluate brand performance across various categories and regions.
+  * Techniques: Data Normalization, Time-based Trend Analysis, Profit Margin Analysis, Cumulative Revenue, Customer Retention, Product Pairing.
+  * Tools: SQL, Aggregate Functions, Window Functions, CASE Statements, Joins, Grouping and Partitioning, Date Functions, Filtering, Ordering.
 * [Annual Sales Performance Analysis and Dashboard](https://github.com/ilonakandela/projects/tree/main/Annual%20Sales%20Performance%20Analysis) <br>
   Analyzing the company’s 2023 sales data to identify key revenue drivers, optimize operational strategies, and uncover opportunities for growth across products, occasions, and geographic markets.
   * Techniques: data transformation with Power Query, build relationships between tables, create custom column using DAX, dynamic visualizations.
