@@ -11,3 +11,4 @@ The dataset contains transactional sales data from a coffee shop, including deta
 - Power Query
 
 ### Dashboard
+![Dashboard](https://github.com/ilonakandela/projects/blob/main/Coffee%20Shop%20Dashboard/img/Coffee%20Shop%20Dashboard-1.png)
