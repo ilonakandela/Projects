@@ -29,3 +29,7 @@ Welcome to my repository, where I showcase a collection of data science/ data an
   This project analyzes the frequency, triggers, and treatment patterns of panic attacks, exploring how factors like age, gender, medical history, and lifestyle habits influence their occurrence.
   * Techniques: data transformation and cleaning, correlation analysis, data visualization, frequency and distribution analysis, pattern recognition.
   * Tools: Power BI, Power Query, DAX, integrated Python scripts for visualization.
+* [Retail Sails Performance](https://github.com/ilonakandela/projects/tree/main/Retail%20Sails%20Performance) <br>
+  This project analyzes retail sales performance, exploring revenue, transactions, payment and shipping methods, and customer behavior across different countries and cities.
+  * Techniques: data cleaning, geospatial sales mapping, comparative market analysis, customer feedback analysis.
+  * Tools: Power BI, Power Query.
